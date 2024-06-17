@@ -54,13 +54,15 @@ footer {
 footer > span {
     margin: 0rem 3.5px;
 }
-.skills_container > i{
+#skills_container, .contact_icons{margin-top: 1rem;}
+#skills_container > i{
     margin-right: 1rem;
 }
 .sec_count {
     color: currentColor;
 }
 
+h3 {border-bottom:1px solid}
 /* Dropdown content */
 #projects_container {
     display: flex;
