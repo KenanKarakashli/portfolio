@@ -1,10 +1,10 @@
 # Personal Portfolio Project
 
 ## Description
-It's a personal portfolio task that I built based on the design specs provided by the Codecademy
+It's a personal portfolio task that I built based on the design specs provided by Codecademy
 
 ## Features
-it has 4 sections which are: 
+It has 4 sections which are: 
 1. About me
 2. Projects
 3. Skills
